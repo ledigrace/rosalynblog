@@ -38,7 +38,9 @@ body, h1, p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url('https://source.unsplash.com/random/1920x300');
+    background-image: url('assets/dog.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 300px;
     color: #fff;
     text-align: center;
